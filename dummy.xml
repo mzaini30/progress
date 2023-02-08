@@ -1,0 +1,9 @@
+<script>
+// <![CDATA[
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H9D3X9DFZ0');
+// ]]>
+</script>

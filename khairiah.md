@@ -1,0 +1,4 @@
+- Header
+- Pasang GA4 (sudah)
+- Daftar GSC. Daftarkan sitemap (sudah)
+- Hapus link Pintu (sudah)
