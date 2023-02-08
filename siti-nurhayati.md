@@ -1,0 +1,1 @@
+- Tanggal di bawah judul konten; tanggal, kategori, banyak komentar
